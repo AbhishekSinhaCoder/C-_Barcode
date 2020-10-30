@@ -1,0 +1,15 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.csprojAssemblyReference.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.Form1.resources
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.csproj.GenerateResource.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\bin\Debug\netcoreapp3.1\Generate_Barcode.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\Generate_Barcode\Generate_Barcode\obj\Debug\netcoreapp3.1\Generate_Barcode.genruntimeconfig.cache

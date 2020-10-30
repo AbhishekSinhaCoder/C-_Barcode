@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generate_Barcode/1.0.0": {
+        "runtime": {
+          "Generate_Barcode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate_Barcode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
